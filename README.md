@@ -30,5 +30,5 @@
 [ARKG]: https://robinhood.com/stocks/ARKG
 [ARKK]: https://robinhood.com/stocks/ARKK
 [ARKQ]: https://robinhood.com/stocks/ARKQ
-[ARKW]: https://robinhood.com/stocks/ARKW
+[ARKW]: https://robinhood.com/stocks/ARKW "ARKW on Robinhood"
 [ARKX]: https://robinhood.com/stocks/ARKX
