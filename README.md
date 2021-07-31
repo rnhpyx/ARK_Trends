@@ -22,7 +22,7 @@
 
 ![Figure_5](https://github.com/rnhpyx/ARK_Trends/blob/main/f5.png)
 
-6. **ARKX** - ARK Space Exploration & Innovation (https://robinhood.com/stocks/ARKX "ARKX on Robinhood")
+[6. **ARKX** - ARK Space Exploration & Innovation](https://robinhood.com/stocks/ARKX "ARKX on Robinhood")
 
 ![Figure_6](https://github.com/rnhpyx/ARK_Trends/blob/main/f6.png)
 
