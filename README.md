@@ -1,7 +1,6 @@
-# ARK Options
-## 1 year trend
-### Updated Aug-01-2021 (from Google Finance)
-H4 Hyperlink to Robinhood
+# ARK Options - 365 days trend
+## Updated Aug-01-2021 (from Google Finance)
+H3 Hyperlink to Robinhood
 
 [1. **ARKF** - ARK Fintech Innovation ][ARKF]
  
