@@ -12,7 +12,7 @@
  
 [3. **ARKK** - ARK Innovation ETF][ARKK]
  
-![k](https://github.com/rnhpyx/ARK_Trends/blob/main/f3.png)
+![k](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1526945284&format=image)
 
 [4. **ARKQ** - ARK Autonomous Technology & Robotics][ARKQ]
 
