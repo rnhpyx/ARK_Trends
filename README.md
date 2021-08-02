@@ -2,7 +2,7 @@
 ## Updated Aug-01-2021 (from Google Finance)
 ### Hyperlink to Robinhood
 
-[1. **ARKF** - ARK Fintech Innovation ][ARKF]
+[_1. **ARKF** - ARK Fintech Innovation_][ARKF]
  
 ![f](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=907041931&format=image) 
  
