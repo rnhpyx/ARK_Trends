@@ -16,15 +16,15 @@
 
 [4. **ARKQ** - ARK Autonomous Technology & Robotics][ARKQ]
 
-![q](https://github.com/rnhpyx/ARK_Trends/blob/main/f4.png)
+![q](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1702347535&format=image)
 
 [5. **ARKW** - ARK Next Generation Internet][ARKW]
 
-![w](https://github.com/rnhpyx/ARK_Trends/blob/main/f5.png)
+![w](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1143013926&format=image)
 
 [6. **ARKX** - ARK Space Exploration & Innovation](https://robinhood.com/stocks/ARKX "ARKX on Robinhood")
 
-![x](https://github.com/rnhpyx/ARK_Trends/blob/main/f6.png)
+![x](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=646823203&format=image)
 
 [ARKF]: https://robinhood.com/stocks/ARKF "ARKF on Robinhood"
 [ARKG]: https://robinhood.com/stocks/ARKG "ARKG on Robinhood"
