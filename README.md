@@ -8,7 +8,7 @@
  
 [2. **ARKG** - ARK Genomic Revolution ETF][ARKG]
  
-![g](https://github.com/rnhpyx/ARK_Trends/blob/main/f2.png) 
+![g](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=973193882&format=image) 
  
 [3. **ARKK** - ARK Innovation ETF][ARKK]
  
