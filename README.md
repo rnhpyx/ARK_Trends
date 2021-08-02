@@ -2,7 +2,7 @@
 ## Updated Aug-01-2021 (from Google Finance)
 ### Hyperlink to Robinhood
 
-[_1. **ARKF** - ARK Fintech Innovation_][ARKF]
+[1. **ARKF** - ARK Fintech Innovation ETF][ARKF]
  
 ![f](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=907041931&format=image) 
  
@@ -14,15 +14,15 @@
  
 ![k](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1526945284&format=image)
 
-[4. **ARKQ** - ARK Autonomous Technology & Robotics][ARKQ]
+[4. **ARKQ** - ARK Autonomous Technology & Robotics ETF][ARKQ]
 
 ![q](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1702347535&format=image)
 
-[5. **ARKW** - ARK Next Generation Internet][ARKW]
+[5. **ARKW** - ARK Next Generation Internet ETF][ARKW]
 
 ![w](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=1143013926&format=image)
 
-[6. **ARKX** - ARK Space Exploration & Innovation](https://robinhood.com/stocks/ARKX "ARKX on Robinhood")
+[6. **ARKX** - ARK Space Exploration & Innovation ETF](https://robinhood.com/stocks/ARKX "ARKX on Robinhood")
 
 ![x](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=646823203&format=image)
 
