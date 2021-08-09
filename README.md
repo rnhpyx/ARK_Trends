@@ -33,6 +33,9 @@
 [ARKW]: https://robinhood.com/stocks/ARKW "ARKW on Robinhood"
 [ARKX]: https://robinhood.com/stocks/ARKX "ARKX on Robinhood"
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=907041931&amp;format=image"></iframe>
+
 [1. **ARKF** - ARK Fintech Innovation ETF][ARKF]
  
 ![f](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAkU1jTkECwZrsnT8m4X0T-TIT1kz2D6PSyBDcUoPDu7U19WVtI8bJ--H4Qf-cnQ436EHHvYRv4xH/pubchart?oid=907041931&format=image) 
